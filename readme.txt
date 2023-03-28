@@ -1,1 +1,2 @@
-"Hello!"
+"Hello!" and "Goodbye!"
+Goodbye
